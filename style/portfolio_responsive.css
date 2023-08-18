@@ -1,0 +1,8 @@
+@media screen and (max-width:1280px) {
+    main #skills .container {height: 1000px;}
+    main #skills .container li {width: 45%;}
+}/* 1280px end */
+@media screen and (max-width:1800px) {
+    main #profile .container .info {height: 1500px;}
+    main #profile .container .info li {width: 100%; margin-bottom: 40px;}
+}
